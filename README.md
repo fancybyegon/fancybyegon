@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fancybyegon
 - 👀 I am a tech enthusiat
-- 🌱 I’m currently learning Software Engineering at Moringa School
+- 🌱 I’m currently learning Software Engineering
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like plants
 
