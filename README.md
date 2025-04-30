@@ -3,8 +3,8 @@ Hey there, I'm Fancy Chepngetich Byegon 🌻
 
 🔧 What I'm Working With
 
-Languages: JavaScript, Python, SQL
-Frameworks & Tools: React, Flask
+Languages: JavaScript, Python, SQL/ 
+Frameworks & Tools: React, Flask/
 Current Focus: Creating dynamic web apps and exploring backend development
 
 🌱 Fun Facts
