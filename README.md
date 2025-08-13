@@ -1,5 +1,5 @@
 Hey there, I'm Fancy Chepngetich Byegon 🌻
-I'm a tech enthusiast and Software Engineering student passionate about building cool stuff with code and nurturing my love for plants (sunflowers and succulents are my faves!).
+I'm a tech enthusiast and a junior Software Engineer passionate about building cool stuff with code and nurturing my love for plants (sunflowers and succulents are my faves!).
 
 🔧 What I'm Working With
 
